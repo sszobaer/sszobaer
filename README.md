@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1KHfUCv_R_mNkS6ald1miVjtUW46cK00Q/view?usp=drive_link)]
 <h1 align="center">Hi 👋, I'm S. S. Zobaer Ahmed</h1>
 <h3 align="center">Pursuing Computer Science And Engineering From American International University-Bnagladesh.</h3>
 <img align="right" alt="Coding"width="400" src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif">
