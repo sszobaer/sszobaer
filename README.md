@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1KHfUCv_R_mNkS6ald1miVjtUW46cK00Q/view?usp=drive_link)
+![Bannerdesign](https://github.com/sszobaer/sszobaer/assets/118447914/06797c21-aa63-4d26-a763-6e719019d292)
 <h1 align="center">Hi 👋, I'm S. S. Zobaer Ahmed</h1>
 <h3 align="center">Pursuing Computer Science And Engineering From American International University-Bnagladesh.</h3>
 <img align="right" alt="Coding"width="400" src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif">
