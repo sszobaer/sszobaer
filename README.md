@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/engr_zobaer" target="blank"><img src="https://img.shields.io/twitter/follow/engr_zobaer?logo=twitter&style=for-the-badge" alt="engr_zobaer" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science And Engineering**
+- 🌱 I’m currently learning **C#, Computer Graphics & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/s-s-zobaer-ahmed/home](https://sites.google.com/view/s-s-zobaer-ahmed/home)
 
-- 💬 Ask me about **C++, C#, Flutter And Web Design**
+- 💬 Ask me about **C++, DSA & Web Design**
 
 - 📫 How to reach me **22-49415-3@student.aiub.edu**
 
