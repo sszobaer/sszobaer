@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Zx14AY9FdeUztPLF7FGkBZGsj2GbkWTQ/view?usp=drive_link](https://drive.google.com/file/d/1Zx14AY9FdeUztPLF7FGkBZGsj2GbkWTQ/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am a lazy person who love to code at mid night (-_-)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
