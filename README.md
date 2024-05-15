@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/engr_zobaer" target="blank"><img src="https://img.shields.io/twitter/follow/engr_zobaer?logo=twitter&style=for-the-badge" alt="engr_zobaer" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Computer Graphics & Flutter**
+- 🌱 I’m currently learning **C#, .NET, Computer Graphics & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/s-s-zobaer-ahmed/home](https://sites.google.com/view/s-s-zobaer-ahmed/home)
 
