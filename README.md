@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sszobaer&label=Profile%20views&color=0e75b6&style=flat" alt="sszobaer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/engr_zobaer" target="blank"><img src="https://img.shields.io/twitter/follow/engr_zobaer?logo=twitter&style=for-the-badge" alt="engr_zobaer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sszobaer" target="blank"><img src="https://img.shields.io/twitter/follow/sszobaer?logo=twitter&style=for-the-badge" alt="sszobaer" /></a> </p>
 
 - 🌱 I’m currently learning **C#, .NET, Computer Graphics & Flutter**
 
