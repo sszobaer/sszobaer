@@ -1,4 +1,5 @@
-![Bannerdesign](https://github.com/sszobaer/sszobaer/assets/118447914/06797c21-aa63-4d26-a763-6e719019d292)
+![Triathlon Sports Facebook Cover in Navy Red Black Geometric Style (2)](https://github.com/user-attachments/assets/f291ea16-dd0d-455c-9560-e01da85972a9)
+
 <h1 align="center">Hi 👋, I'm S. S. Zobaer Ahmed</h1>
 <h3 align="center">Pursuing Computer Science And Engineering From American International University-Bnagladesh.</h3>
 <img align="right" alt="Coding"width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
