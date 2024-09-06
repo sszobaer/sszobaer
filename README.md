@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/sszobaer" target="blank"><img src="https://img.shields.io/twitter/follow/sszobaer?logo=twitter&style=for-the-badge" alt="sszobaer" /></a> </p>
 
-- 🌱 I’m currently learning **C#, .NET, Computer Graphics & Flutter**
+- 🌱 I’m currently learning **AI, Compiler Design, Computer Graphics**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/s-s-zobaer-ahmed/home](https://sites.google.com/view/s-s-zobaer-ahmed/home)
 
-- 💬 Ask me about **C++, DSA & Web Design**
+- 💬 Ask me about **C#, DSA & UI/UX Design**
 
 - 📫 How to reach me **22-49415-3@student.aiub.edu**
 
