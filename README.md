@@ -3,8 +3,22 @@
 <h1 align="center">Hi 👋, I'm S. S. Zobaer Ahmed</h1>
 <h3 align="center">Pursuing Computer Science And Engineering From American International University-Bnagladesh.</h3>
 
+# 💫 About Me:
+🌱 I’m currently learning **AI, Compiler Design, Computer Graphics**<br><br>👨‍💻 All of my projects are available at [https://sites.google.com/view/s-s-zobaer-ahmed/home](https://sites.google.com/view/s-s-zobaer-ahmed/home)<br><br>💬 Ask me about **C#, DSA & UI/UX Design**<br><br>📫 How to reach me **22-49415-3@student.aiub.edu**<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1Zx14AY9FdeUztPLF7FGkBZGsj2GbkWTQ/view?usp=drive_link](https://drive.google.com/file/d/1Zx14AY9FdeUztPLF7FGkBZGsj2GbkWTQ/view?usp=drive_link)<br><br>⚡ Fun fact **I think I am a lazy person who love to code at mid night (-_-)
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sszobaer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sszobaer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sszobaer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sszobaer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sszobaer&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -13,40 +27,3 @@
 [![](https://visitcount.itsvg.in/api?id=sszobaer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img align="right" alt="Coding"width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sszobaer&label=Profile%20views&color=0e75b6&style=flat" alt="sszobaer" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sszobaer" target="blank"><img src="https://img.shields.io/twitter/follow/sszobaer?logo=twitter&style=for-the-badge" alt="sszobaer" /></a> </p>
-
-- 🌱 I’m currently learning **AI, Compiler Design, Computer Graphics**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/s-s-zobaer-ahmed/home](https://sites.google.com/view/s-s-zobaer-ahmed/home)
-
-- 💬 Ask me about **C#, DSA & UI/UX Design**
-
-- 📫 How to reach me **22-49415-3@student.aiub.edu**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zx14AY9FdeUztPLF7FGkBZGsj2GbkWTQ/view?usp=drive_link](https://drive.google.com/file/d/1Zx14AY9FdeUztPLF7FGkBZGsj2GbkWTQ/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am a lazy person who love to code at mid night (-_-)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/engr_zobaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engr_zobaer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/s-s-zobaer-ahmed-209bab296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s. s. zobaer ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/zobaer.ahmed.121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="S. S. Zobaer Ahmed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sheikh_shah_zobaer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sheikh Shah Zobaer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC53rrK2S6ebLg2ju2WgsVpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Code Craft Zobaer" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/KKAxfvRW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KKAxfvRW" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sszobaer&show_icons=true&locale=en&layout=compact" alt="sszobaer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sszobaer&show_icons=true&locale=en" alt="sszobaer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sszobaer&" alt="sszobaer" /></p>
