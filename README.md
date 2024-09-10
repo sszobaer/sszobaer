@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm S. S. Zobaer Ahmed</h1>
 <h3 align="center">Pursuing Computer Science And Engineering From American International University-Bnagladesh.</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sszobaer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <img align="right" alt="Coding"width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sszobaer&label=Profile%20views&color=0e75b6&style=flat" alt="sszobaer" /> </p>
