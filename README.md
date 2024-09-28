@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **expanding my knowledge and projects in Machine Learning, Data Science, and .NET development**
 
-- 👨‍💻 All of my projects are available at [on my github](on my github)
+- 👨‍💻 All of my projects are available at [on my github](https://github.com/sszobaer)
 
 - 📝 I regularly write articles on [Instagram](Instagram)
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ahmedsszobaer@gmail.com**
 
-- 📄 Know about my experiences [On My Github](https://sszobaer.github.io/sszobaerahmed.dev/)
+- 📄 Know about my experiences [On My Webpage](https://sszobaer.github.io/sszobaerahmed.dev/)
 
 - ⚡ Fun fact **I am a lazy person who love to programming at late night**
 
