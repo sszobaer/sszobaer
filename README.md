@@ -34,7 +34,7 @@
 <a href="https://twitter.com/sszobaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sszobaer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/s-s-zobaer-ahmed-209bab296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-s-zobaer-ahmed-209bab296" height="30" width="40" /></a>
 <a href="https://fb.com/zobaer.ahmed.121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zobaer.ahmed.121" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codecraftzobaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codecraftzobaer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codecraftzobaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codecraftzobaer" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ahmedssu909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ahmedssu909" height="30" width="40" /></a>
 </p>
 
