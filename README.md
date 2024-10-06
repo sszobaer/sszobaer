@@ -1,7 +1,7 @@
 ![Triathlon Sports Facebook Cover in Navy Red Black Geometric Style (2)](https://github.com/user-attachments/assets/f291ea16-dd0d-455c-9560-e01da85972a9)
 
 <h1 align="center">Hi 👋, I'm S. S. Zobaer Ahmed</h1>
-<h3 align="center">A passionate Enginner, Researcher & Programmer from Bangladesh</h3>
+<h3 align="center">A passionate Engineer, Researcher & Programmer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sszobaer&label=Profile%20views&color=0e75b6&style=flat" alt="sszobaer" /> </p>
 
@@ -9,25 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/sszobaer" target="blank"><img src="https://img.shields.io/twitter/follow/sszobaer?logo=twitter&style=for-the-badge" alt="sszobaer" /></a> </p>
 
-- 🔭 I’m currently working on **MRI Model Generative + Self Supervised Research**
+- 🔭 I’m currently working on **Research of Self Supervised Vehicle using Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Python & Data Science**
 
 - 👯 I’m looking to collaborate on **software engineering, machine learning, or data science—let's build something impactful together!**
 
 - 🤝 I’m looking for help with **expanding my knowledge and projects in Machine Learning, Data Science, and .NET development**
 
-- 👨‍💻 All of my projects are available at [on my github](https://github.com/sszobaer)
+- 👨‍💻 All of my details are available at [on my google_site]([https://github.com/sszobaer](https://sites.google.com/view/s-s-zobaer-ahmed?fbclid=IwY2xjawFvcGRleHRuA2FlbQIxMAABHQIKSqXqLXZNYeuUvufV8tb4LywYaZc6CyyCWDj-jWLqKRmW-ErjlPALew_aem_FxK06n2Gpt7bGDllZ9mBsQ))
 
-- 📝 I regularly write articles on [Instagram](Instagram)
+- 💬 Ask me about **C#, C++, Python, Machine Learning, Data Science and Software Enginnering**
 
-- 💬 Ask me about **.Net, C#, Python and ML**
+- 📫 Reach me **ahmedsszobaer@gmail.com**
 
-- 📫 How to reach me **ahmedsszobaer@gmail.com**
-
-- 📄 Know about my experiences [On My Webpage](https://sszobaer.github.io/sszobaerahmed.dev/)
-
-- ⚡ Fun fact **I am a lazy person who love to programming at late night**
+- ⚡ Fun fact **🎮 I enjoy gaming and exploring the world of eSports when I'm not coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
