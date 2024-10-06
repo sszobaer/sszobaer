@@ -146,7 +146,6 @@ I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sszobaer&show_icons=true&locale=en" alt="sszobaer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sszobaer&" alt="sszobaer" /></p>
 
 ## Contributions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sszobaer)](https://git.io/streak-stats)
