@@ -41,10 +41,12 @@ Here are some of the notable projects I’ve worked on:
 - 🤖 Currently exploring deep learning models like **DCGAN** for image generation.
 - 📈 The projects include Python scripts to train and visualize the model's training process.
 
+
 ## 🎥 YouTube Channel: [Code Craft Zobaer](https://www.youtube.com/@codecraftzobaer)
 I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for Machine Learning. Check out my latest videos:
 - [Data Structure(List, Set, Tuple & Dictionary) In Python explained in Bangla ](https://youtu.be/Y1p7-IUA6a0?si=G2tU7rsbM8V0Y913) 🎓
 - [Control Flow in Python (if-else)](https://youtu.be/SS5rVFRnPPw?si=02CjYkBKDD5pynJN) 🔄
+
 
 ## 🎯 What I'm Currently Learning
 - 📚 **Machine Learning models** (DCGAN, CNN, RNN)
