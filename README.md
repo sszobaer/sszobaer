@@ -26,6 +26,39 @@
 
 - ⚡ Fun fact **🎮 I enjoy gaming and exploring the world of eSports when I'm not coding!**
 
+  ## 🛠️ Technologies & Tools
+- 💻 **Languages:** C++, Java, C#, Python
+- 🧰 **Frameworks & Libraries:** .NET, WinForms, SQL
+- 🗄️ **Database:** SQL Server
+- 🛠️ **Tools:** Jupyter Notebook, Git
+- 🤖 **Other Skills:** Machine Learning, Data Science, CRUD Operations, WinForms UI Design
+
+## 🔥 Projects
+Here are some of the notable projects I’ve worked on:
+
+### 🌟 [Pharmacy Management System](https://github.com/sszobaer/PharmacyApplicationManagementSystem)
+- 🏥 A comprehensive system with roles like Admin, Manager, and Staff.
+- 🛒 **Key features:** Product management, cart and order system with multiple payment options (bKash, Nagad, Rocket, Banking).
+- ⚙️ **Admin panel** for managing employees, departments, and salary calculations based on attendance.
+
+### 🌟 [CRUD App (C# and SQL)](https://github.com/sszobaer/Crud-App-Using-C-Sharp-.NET)
+- 📊 A simple and effective CRUD application built with C# WinForms and SQL.
+- 🔍 **Features:** Insert, update, delete, and search data using a Data Grid View.
+
+### 🌟 [Machine Learning Projects](https://github.com/sszobaer/MachineLearingWithPythonNotes)
+- 🤖 Currently exploring deep learning models like **DCGAN** for image generation.
+- 📈 The projects include Python scripts to train and visualize the model's training process.
+
+## 🎥 YouTube Channel: [Code Craft Zobaer](https://www.youtube.com/@codecraftzobaer)
+I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for Machine Learning. Check out my latest videos:
+- [Data Structure(List, Set, Tuple & Dictionary) In Python explained in Bangla ](https://youtu.be/Y1p7-IUA6a0?si=G2tU7rsbM8V0Y913) 🎓
+- [Control Flow in Python (if-else)](https://youtu.be/SS5rVFRnPPw?si=02CjYkBKDD5pynJN) 🔄
+
+## 🎯 What I'm Currently Learning
+- 📚 **Machine Learning models** (DCGAN, CNN, RNN)
+- 🧪 **Advanced Data Science** techniques with Python
+- 🏗️ Building larger, scalable .NET applications
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sszobaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sszobaer" height="30" width="40" /></a>
