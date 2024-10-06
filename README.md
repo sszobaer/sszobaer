@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **software engineering, machine learning, or data science—let's build something impactful together!**
 
-- 👨‍💻 All of my details are available at [on my google_site]([https://sites.google.com/view/s-s-zobaer-ahmed?fbclid=IwY2xjawFvcGRleHRuA2FlbQIxMAABHQIKSqXqLXZNYeuUvufV8tb4LywYaZc6CyyCWDj-jWLqKRmW-ErjlPALew_aem_FxK06n2Gpt7bGDllZ9mBsQ])
+- 👨‍💻 All of my details are available at [on my google_site](https://sites.google.com/view/s-s-zobaer-ahmed?fbclid=IwY2xjawFvcGRleHRuA2FlbQIxMAABHQIKSqXqLXZNYeuUvufV8tb4LywYaZc6CyyCWDj-jWLqKRmW-ErjlPALew_aem_FxK06n2Gpt7bGDllZ9mBsQ)
 - 💬 Ask me about **C#, C++, Python, Machine Learning, Data Science and Software Enginnering**
 
 - 📫 Reach me **ahmedsszobaer@gmail.com**
