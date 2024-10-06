@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **Research of Self Supervised Vehicle using Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning, Python & Data Science**
-
 - 👯 I’m looking to collaborate on **software engineering, machine learning, or data science—let's build something impactful together!**
 
 - 🏫 Teaching Programming at [Vibes Of Aiub(Academic)](https://www.facebook.com/groups/503336042662169)
@@ -26,12 +24,6 @@
 
 - ⚡ Fun fact **🎮 I enjoy gaming and exploring the world of eSports when I'm not coding!**
 
-  ## 🛠️ Technologies & Tools
-- 💻 **Languages:** C++, Java, C#, Python
-- 🧰 **Frameworks & Libraries:** .NET, WinForms, SQL
-- 🗄️ **Database:** SQL Server
-- 🛠️ **Tools:** Jupyter Notebook, Git
-- 🤖 **Other Skills:** Machine Learning, Data Science, CRUD Operations, WinForms UI Design
 
 ## 🔥 Projects
 Here are some of the notable projects I’ve worked on:
