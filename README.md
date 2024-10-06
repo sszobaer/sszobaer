@@ -59,6 +59,7 @@ I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for 
 <a href="https://linkedin.com/in/s-s-zobaer-ahmed-209bab296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-s-zobaer-ahmed-209bab296" height="30" width="40" /></a>
 <a href="https://fb.com/zobaer.ahmed.121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zobaer.ahmed.121" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@codecraftzobaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codecraftzobaer" height="30" width="40" /></a>
+<a href="https://kaggle.com/sszobaerahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sszobaerahmed" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ahmedssu909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ahmedssu909" height="30" width="40" /></a>
 </p>
 
