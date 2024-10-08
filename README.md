@@ -20,7 +20,7 @@
 - 👨‍💻 All of my details are available at [on my google_site](https://sites.google.com/view/s-s-zobaer-ahmed?fbclid=IwY2xjawFvcGRleHRuA2FlbQIxMAABHQIKSqXqLXZNYeuUvufV8tb4LywYaZc6CyyCWDj-jWLqKRmW-ErjlPALew_aem_FxK06n2Gpt7bGDllZ9mBsQ)
 - 💬 Ask me about **C#, C++, Python, Machine Learning, Data Science and Software Enginnering**
 
-- 📫 Reach me **ahmedsszobaer@gmail.com**
+- 📫 Reach me **22-49415-3@student.aiub.edu**
 
 - ⚡ Fun fact **🎮 I enjoy gaming and exploring the world of eSports when I'm not coding!**
 
