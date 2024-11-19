@@ -9,18 +9,18 @@
 
 <p align="left"> <a href="https://twitter.com/sszobaer" target="blank"><img src="https://img.shields.io/twitter/follow/sszobaer?logo=twitter&style=for-the-badge" alt="sszobaer" /></a> </p>
 
-- 🔭 I’m currently working on **Research of Self Supervised Vehicle using Machine Learning**
+- 🔭 I’m currently working on **Course Registration Management System in ADBMS**
 
 - 👯 I’m looking to collaborate on **software engineering, machine learning, or data science—let's build something impactful together!**
 
 - 🏫 Teaching Programming at [Vibes Of Aiub(Academic)](https://www.facebook.com/groups/503336042662169)
 
-- 🔗 Make programming content at [Code Craft Zobaer](https://www.youtube.com/@codecraftzobaer)
+- 🔗 Create programming contents at [Code Craft Zobaer](https://www.youtube.com/@codecraftzobaer)
 
 - 👨‍💻 All of my details are available at [on my Web site](https://sites.google.com/view/ahmedsszobaer/home)
 - 💬 Ask me about **C#, C++, Python, Machine Learning, Data Science and Software Enginnering**
 
-- 📫 Reach me **22-49415-3@student.aiub.edu**
+- 📫 Reach me **ahmedsszobaer@gmail.com**
 
 - ⚡ Fun fact **🎮 I enjoy gaming and exploring the world of eSports when I'm not coding!**
 
@@ -49,8 +49,8 @@ I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for 
 
 
 ## 🎯 What I'm Currently Learning
-- 📚 **Machine Learning models** (DCGAN, CNN, RNN)
-- 🧪 **Advanced Data Science** techniques with Python
+- 📚 **Machine Learning models** (RAG, DCGAN, CNN, RNN)
+- 🧪 **Advance Database Management System** techniques with PL/SQL
 - 🏗️ Building larger, scalable .NET applications
 
 <h3 align="left">Connect with me:</h3>
