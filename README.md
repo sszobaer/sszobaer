@@ -147,5 +147,17 @@ I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sszobaer&show_icons=true&locale=en" alt="sszobaer" /></p>
 
 
-## Contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sszobaer)](https://git.io/streak-stats)
+<div align="center">
+  <h2>🚀 My Contributions 🚀</h2>
+  <br>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EhsanulHaqueSiam/EhsanulHaqueSiam/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EhsanulHaqueSiam/EhsanulHaqueSiam/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/EhsanulHaqueSiam/EhsanulHaqueSiam/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+  <br>
+  <br>
+  <br>
+</div>
