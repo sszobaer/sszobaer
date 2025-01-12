@@ -1,4 +1,5 @@
-![Triathlon Sports Facebook Cover in Navy Red Black Geometric Style (2)](https://github.com/user-attachments/assets/f291ea16-dd0d-455c-9560-e01da85972a9)
+
+![Green Simple Manager LinkedIn Banner](https://github.com/user-attachments/assets/00626cac-daac-4947-8a2b-d8314671a90f)
 
 <h1 align="center">Hi 👋, I'm S. S. Zobaer Ahmed</h1>
 <h3 align="center">A passionate Engineer, Researcher & Programmer from Bangladesh</h3>
