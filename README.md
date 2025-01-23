@@ -153,9 +153,9 @@ I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for 
   <br>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EhsanulHaqueSiam/EhsanulHaqueSiam/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EhsanulHaqueSiam/EhsanulHaqueSiam/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/EhsanulHaqueSiam/EhsanulHaqueSiam/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sszobaer/sszobaer/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sszobaer/sszobaer/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sszobaer/sszobaer/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
   <br>
