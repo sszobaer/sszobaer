@@ -42,6 +42,13 @@ Here are some of the notable projects I’ve worked on:
 - 🤖 Currently exploring deep learning models like **DCGAN** for image generation.
 - 📈 The projects include Python scripts to train and visualize the model's training process.
 
+Here are some of the notable projects I’ve working right now:
+### 🚀 [Course Registration Management System](https://github.com/sszobaer/Course_Registration_Management_System)
+
+- **📚 Automated Course Enrollment**: Effortlessly register for courses with real-time seat availability, ensuring a smooth enrollment process.
+- **👩‍🏫 Instructor & Admin Dashboards**: Empower instructors and administrators with complete control to manage courses, track student enrollments, and handle grading all from an intuitive dashboard.
+- **✨ Sleek User Interface**: Enjoy a clean, modern, and easy-to-navigate interface, designed to enhance the user experience for both students and staff.
+
 
 ## 🎥 YouTube Channel: [Code Craft Zobaer](https://www.youtube.com/@codecraftzobaer)
 I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for Machine Learning. Check out my latest videos:
