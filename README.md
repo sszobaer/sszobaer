@@ -10,16 +10,14 @@
 
 <p align="left"> <a href="https://twitter.com/sszobaer" target="blank"><img src="https://img.shields.io/twitter/follow/sszobaer?logo=twitter&style=for-the-badge" alt="sszobaer" /></a> </p>
 
-- 🔭 I’m currently working on **Course Registration Management System in ADBMS**
+- 🔭 I’m currently working on **Sucure Banking System Managment System Using PHP**
 
 - 👯 I’m looking to collaborate on **software engineering, machine learning, or data science—let's build something impactful together!**
-
-- 🏫 Teaching Programming at [Vibes Of Aiub(Academic)](https://www.facebook.com/groups/503336042662169)
 
 - 🔗 Create programming contents at [Code Craft Zobaer](https://www.youtube.com/@codecraftzobaer)
 
 - 👨‍💻 All of my details are available at [on my Web site](https://sites.google.com/view/ahmedsszobaer/home)
-- 💬 Ask me about **C#, C++, Python, Machine Learning, Data Science and Software Enginnering**
+- 💬 Ask me about **JS, PHP, Laravel, Python, Machine Learning, Data Science and Software Enginnering**
 
 - 📫 Reach me **ahmedsszobaer@gmail.com**
 
@@ -78,19 +76,3 @@ I create **coding tutorials in Bangla** on topics like .NET, C#, and Python for 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sszobaer&show_icons=true&locale=en&layout=compact" alt="sszobaer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sszobaer&show_icons=true&locale=en" alt="sszobaer" /></p>
-
-
-<div align="center">
-  <h2>🚀 My Contributions 🚀</h2>
-  <br>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sszobaer/sszobaer/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sszobaer/sszobaer/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sszobaer/sszobaer/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-  <br>
-  <br>
-  <br>
-</div>
