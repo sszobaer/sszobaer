@@ -31,15 +31,92 @@
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,nest,next,postgres,tailwind,php" />
+### 💻 Languages
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
 </p>
 
-### 🧩 Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git,oracle,mysql,jupyter,figma" />
+### 🏗 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="nestjs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
 </p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+  </a>
+</p>
+
+
 
 ### ☁️ Interests  
 <p align="center">
@@ -53,6 +130,17 @@
 ---
 
 ## 🌟 Featured Projects  
+### 🎓 **EduWave**  
+> An LMS  platform built with **Next.js + NestJS + PostgreSQL**, allowing students and teachers to manage courses, assignments, and quizes seamlessly.  
+👉 *Highlights full-stack development, API integration, and real-time updates.*
+
+---
+
+### 🕹️ **Esports Tournament Management**  
+> A web application for managing **esports tournaments**, including team registration, match scheduling, and leaderboard tracking. Built with **ASP.NET Core + EF Core + PostgreSQL + NEXT JS**.  
+👉 *Demonstrates complex backend logic, real-time score updates, and user management.*
+
+---
 
 ### 💊 **Pharmacy Management System**  
 > A complete **C# .NET WinForms + SQL Server** system for managing pharmacy operations — user roles, cart system, order tracking, and salary management.  
@@ -66,21 +154,9 @@
 
 ---
 
-### 👕 **E-Clothing Shop Web App**  
-> A dynamic **e-commerce platform** built with **LAMP Stack** — featuring product browsing, cart management, and admin dashboard.  
-👉 *Includes responsive UI, secure authentication, and intuitive user flow.*
-
----
-
 ### 🌾 **Crop Disease Classification (ML Project)**  
 > A **DCGAN-based deep learning model** for detecting crop diseases using image classification.  
 👉 *Integrates preprocessing, augmentation, and robust model training.*
-
----
-
-### 🎨 **Portfolio Website**  
-> A personal portfolio built using **HTML, CSS, JS**, and subtle animations.  
-👉 *Clean, modern, and professional design — crafted with care.*
 
 ---
 
@@ -92,14 +168,20 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+
+ <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sszobaer&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sszobaer&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sszobaer&theme=tokyonight" alt="Profile Summary" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sszobaer&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sszobaer&theme=tokyonight" />
+</p>
+
 
 ---
 
