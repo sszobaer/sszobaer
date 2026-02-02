@@ -160,17 +160,26 @@
 
 ---
 
-## 🏆 Certifications  
+## 🏆 Certifications & Achievements  
 - 🖋️ **Professional UI/UX Design** — Uy Lab  
-- 🖋️ **Web Design & WordPress Theme Customization** — Uy Lab  
-- 🎓 **BSc in Computer Science and Engineering** — AIUB  
-
----
+- 🖋️ **Web Design & WordPress Theme Customization** — Uy Lab 
+- 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/📖_Published_Author-6C63FF?style=for-the-badge"/><br><b>Atlantes Press</b><br>IDAA 2025</td>
+      <td align="center"><img src="https://img.shields.io/badge/🏅_Award_Winner-FFD700?style=for-the-badge"/><br><b>1st Runner-Up</b><br>IDAA 2025 Best Paper Award</td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sszobaer&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sszobaer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D9FF&point=FFFFFF&area=true&area_color=6C63FF" width="98%"/>
 </p>
 
 
