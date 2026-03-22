@@ -178,9 +178,20 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sszobaer&theme=tokyonight" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sszobaer&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sszobaer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sszobaer&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
+</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sszobaer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00D9FF&point=FFFFFF&area=true&area_color=6C63FF" width="98%"/>
 </p>
+
+
 
 
 ---
